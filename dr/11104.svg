@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" onmouseup="{ if(window.parent.document.onmouseup) window.parent.document.onmouseup(arguments[0]);}" viewBox="0 0 642.5 100" version="1.1"><defs><style>
+      .cls-1 {
+        fill: #252d2b;
+      }
+
+      .cls-2 {
+        fill: #5e6664;
+      }
+    </style></defs><g><g id="Layer_2"><g id="Layer_1-2"><g><polygon data-cppathid="10000" points="141.3 100 28 100 60.9 65.4 28 30.8 141.3 30.8 141.3 100" class="cls-2"/><polygon data-cppathid="10001" points="503.7 100 617 100 584.1 65.4 617 30.8 503.7 30.8 503.7 100" class="cls-2"/><path data-cppathid="10002" d="M94.9,6.4l37.1-1.8c126.7-6.1,253.8-6.1,380.5,0l37.5,1.8v69l-37.5-1.8c-126.7-6.1-253.8-6.1-380.5,0l-37.1,1.8V6.4h0Z" class="cls-2"/><path data-cppathid="10003" d="M94.9,75.3l46.4,24.7v-26.9s-28,1.6-46.4,2.2h0Z" class="cls-1"/><path data-cppathid="10004" d="M550.1,75.3l-46.4,24.7v-26.9s28,1.6,46.4,2.2h0Z" class="cls-1"/></g></g></g></g></svg>
